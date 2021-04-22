@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="555aeb5e-2f35-4a0d-a79a-fb5e85b184ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CodeWithHarry" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/newpac/pravin.txt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1SThDiso1v1NgYqGjZRREMOC9PM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/newpac" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.27185184" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/newpac" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.opps3">
+    <configuration name="Python 3.6" type="PythonConfigurationType" factoryName="Python">
+      <module name="CodeWithHarry" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dec" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeWithHarry" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeWithHarry" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opps1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeWithHarry" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opps1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opps2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeWithHarry" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opps2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opps3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeWithHarry" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opps3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Python 3.6" />
+      <item itemvalue="Python.dec" />
+      <item itemvalue="Python.opps" />
+      <item itemvalue="Python.opps1" />
+      <item itemvalue="Python.opps2" />
+      <item itemvalue="Python.opps3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.opps3" />
+        <item itemvalue="Python.opps2" />
+        <item itemvalue="Python.opps1" />
+        <item itemvalue="Python.opps" />
+        <item itemvalue="Python.dec" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="555aeb5e-2f35-4a0d-a79a-fb5e85b184ef" name="Default Changelist" comment="" />
+      <created>1571593374797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571593374797</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="78" y="34" width="1200" height="734" key="#Inspections" timestamp="1585410444452">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="78" y="34" width="1200" height="734" key="#Inspections/0.34.1366.734@0.34.1366.734" timestamp="1585410444452" />
+    <state x="178" y="34" width="1000" height="734" key="#Notifications" timestamp="1579542046700">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="178" y="34" width="1000" height="734" key="#Notifications/0.34.1366.734@0.34.1366.734" timestamp="1579542046700" />
+    <state x="298" y="172" width="759" height="456" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585410183966">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="298" y="172" width="759" height="456" key="#com.intellij.fileTypes.FileTypeChooser/0.34.1366.734@0.34.1366.734" timestamp="1585410183966" />
+    <state x="357" y="34" width="630" height="734" key="FileChooserDialogImpl" timestamp="1585410258862">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="357" y="34" width="630" height="734" key="FileChooserDialogImpl/0.34.1366.734@0.34.1366.734" timestamp="1585410258862" />
+    <state width="1335" height="139" key="GridCell.Tab.0.bottom" timestamp="1586007205842">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1338" height="217" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1579540783554">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1338" height="217" key="GridCell.Tab.0.bottom.inPresentationMode/0.34.1366.734@0.34.1366.734" timestamp="1579540783554" />
+    <state width="1335" height="139" key="GridCell.Tab.0.bottom/0.34.1366.734@0.34.1366.734" timestamp="1586007205842" />
+    <state width="1335" height="139" key="GridCell.Tab.0.center" timestamp="1586007205841">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1338" height="217" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1579540783553">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1338" height="217" key="GridCell.Tab.0.center.inPresentationMode/0.34.1366.734@0.34.1366.734" timestamp="1579540783553" />
+    <state width="1335" height="139" key="GridCell.Tab.0.center/0.34.1366.734@0.34.1366.734" timestamp="1586007205841" />
+    <state width="1335" height="139" key="GridCell.Tab.0.left" timestamp="1586007205841">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1338" height="217" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1579540783553">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1338" height="217" key="GridCell.Tab.0.left.inPresentationMode/0.34.1366.734@0.34.1366.734" timestamp="1579540783553" />
+    <state width="1335" height="139" key="GridCell.Tab.0.left/0.34.1366.734@0.34.1366.734" timestamp="1586007205841" />
+    <state width="1335" height="139" key="GridCell.Tab.0.right" timestamp="1586007205841">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1338" height="217" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1579540783554">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1338" height="217" key="GridCell.Tab.0.right.inPresentationMode/0.34.1366.734@0.34.1366.734" timestamp="1579540783554" />
+    <state width="1335" height="139" key="GridCell.Tab.0.right/0.34.1366.734@0.34.1366.734" timestamp="1586007205841" />
+    <state x="48" y="34" width="1259" height="734" key="SettingsEditor" timestamp="1585388377521">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="48" y="34" width="1259" height="734" key="SettingsEditor/0.34.1366.734@0.34.1366.734" timestamp="1585388377521" />
+    <state x="263" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1585985488916">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="263" y="190" key="com.intellij.ide.util.TipDialog/0.34.1366.734@0.34.1366.734" timestamp="1585985488916" />
+    <state x="261" y="184" width="823" height="433" key="com.jetbrains.python.documentation.PythonDocumentationEntryEditor" timestamp="1581016229871">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="261" y="184" width="823" height="433" key="com.jetbrains.python.documentation.PythonDocumentationEntryEditor/0.34.1366.734@0.34.1366.734" timestamp="1581016229871" />
+    <state x="176" y="32" width="1009" height="1470" key="search.everywhere.popup" timestamp="1585732155593">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="176" y="32" width="1009" height="1470" key="search.everywhere.popup/0.34.1366.734@0.34.1366.734" timestamp="1585732155593" />
+    <state x="342" y="284" width="671" height="231" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585631929423">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="342" y="284" width="671" height="231" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.34.1366.734@0.34.1366.734" timestamp="1585631929423" />
+  </component>
+</project>

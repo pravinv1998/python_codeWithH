@@ -1,0 +1,2 @@
+Name is Pravin Vargad Age: 22 Role is Django Developer
+Name is mayur Age: 20 Role is commers
